@@ -12,7 +12,6 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 logo        : logoscary.jpg
 license     : jaime
-ext_widgets : {rCharts: [libraries/nvd3]}
 --- 
 
 ## The Scary Factor Predictor. . .
@@ -29,8 +28,8 @@ ext_widgets : {rCharts: [libraries/nvd3]}
 ### Are you in doubt about if to go or not to go...
 <br>
 #### Find out. . .      Your scary factor!
-
-<img src="assets/img/logoscary.jpg" width="404" height="100"> 
+<br>
+<img src="assets/img/logoscary.jpg" width="125" height="100"> 
 
 --- &twocol 
 
